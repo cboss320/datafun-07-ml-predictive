@@ -16,6 +16,7 @@ import os
 import platform
 import sys
 import decimal 
+import matplotlib
 
 
 # declare program constants
