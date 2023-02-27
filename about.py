@@ -12,11 +12,10 @@ To learn more, search:
 # imports (all of these are from the standard library)
 
 import datetime
+import decimal
 import os
 import platform
 import sys
-import decimal 
-import statistics
 
 # declare program constants
 # sometimes, data is kept in a folder named 'data'
