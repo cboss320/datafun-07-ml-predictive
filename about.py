@@ -16,8 +16,7 @@ import os
 import platform
 import sys
 import decimal 
-import matplotlib
-
+import statistics
 
 # declare program constants
 # sometimes, data is kept in a folder named 'data'
