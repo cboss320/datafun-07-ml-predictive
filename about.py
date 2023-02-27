@@ -16,6 +16,7 @@ import decimal
 import os
 import platform
 import sys
+import scipy
 
 # declare program constants
 # sometimes, data is kept in a folder named 'data'
